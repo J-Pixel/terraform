@@ -1,4 +1,4 @@
-# terraform. VM in yandex with backend state file in object storage.
+# terraform. Create VM instance in yandex cloud with state file also in yandex cloud object storage.
 
 My terraform blueprints
 
